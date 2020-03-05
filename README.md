@@ -1,3 +1,3 @@
-# gitgit4
+REMOTE # gitgit4
 
 Hello there
