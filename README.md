@@ -1,3 +1,3 @@
-# gitgit4
+LOCAL # gitgit4
 
 Hello there
